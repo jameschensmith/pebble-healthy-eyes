@@ -1,0 +1,5 @@
+Healthy Eyes is an interval timer similar to the Pomodoro Technique with the aim to help in preventing eye strain.
+
+For more info on Computer Vision Syndrome, go to
+
+http://www.webmd.com/eye-health/computer-vision-syndrome?

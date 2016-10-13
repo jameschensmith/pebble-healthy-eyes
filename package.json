@@ -1,0 +1,99 @@
+{
+    "author": "poeia",
+    "dependencies": {
+        "@smallstoneapps/bitmap-loader": "^1.2.3",
+        "pebble-clay": "^1.0.2"
+    },
+    "keywords": [],
+    "name": "healthy-eyes",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Healthy Eyes",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "TimerTime",
+            "BreakTime",
+            "SnoozeTime",
+            "ShakeSetting"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/fa-trash.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_CLEAR",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-eye-menu.png",
+                    "memoryFormat": "1Bit",
+                    "menuIcon": true,
+                    "name": "ICON_MENU",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-eye.png",
+                    "name": "IMAGE_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-pause.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_PAUSE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-stop.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STOP",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/pb-start.png",
+                    "name": "ICON_START",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/pb-snooze.png",
+                    "name": "ICON_SNOOZE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-play.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_PLAY",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "data/info.txt",
+                    "name": "TEXT_INFO",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "143a4415-46d3-4d39-9723-6de5c1d902ce",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.9.0"
+}
