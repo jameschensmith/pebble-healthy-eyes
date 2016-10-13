@@ -1,5 +1,5 @@
-Healthy Eyes is an interval timer similar to the Pomodoro Technique with the aim to help in preventing eye strain.
+Healthy Eyes is a Pebble watchapp that aims to help you manage your time and to keep track of your breaks while preventing eyestrain. The technique used for the timer is similar to the Pomodoro Technique, but with the flexibility of being able to snooze the timer in case you need another minute to jot down a spur-of-the-moment idea or catch the end-of-credits teaser of your favorite show.
 
-For more info on Computer Vision Syndrome, go to
+For more info on the causes of eyestrain, go to
 
-http://www.webmd.com/eye-health/computer-vision-syndrome?
+http://mayocl.in/2bEviug

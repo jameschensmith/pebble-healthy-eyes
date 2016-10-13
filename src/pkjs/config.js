@@ -1,8 +1,7 @@
 /*
- * Healthy Eyes
- * Pebble pomodoro timer and break tracker
- *
- * Copyright © 2016 James Smith
+ * Healthy Eyes - The Smart Pomodoro Timer for Pebble
+ * Copyright (c) 2016 James Smith (jamessmithsmusic@gmail.com)
+ * Licensed under the MIT license: http://opensource.org/licenses/MIT
  */
 
 module.exports = [
