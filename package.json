@@ -22,41 +22,6 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/fa-trash.png",
-                    "memoryFormat": "1Bit",
-                    "name": "ICON_CLEAR",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/fa-eye-menu.png",
-                    "memoryFormat": "1Bit",
-                    "menuIcon": true,
-                    "name": "ICON_MENU",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/fa-eye.png",
-                    "name": "IMAGE_SPLASH",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/fa-pause.png",
-                    "memoryFormat": "1Bit",
-                    "name": "ICON_PAUSE",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/fa-stop.png",
-                    "memoryFormat": "1Bit",
-                    "name": "ICON_STOP",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/pb-start.png",
                     "name": "ICON_START",
                     "targetPlatforms": null,
@@ -69,9 +34,44 @@
                     "type": "bitmap"
                 },
                 {
+                    "file": "images/fa-trash.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_CLEAR",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-stop.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_STOP",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "images/fa-play.png",
                     "memoryFormat": "1Bit",
                     "name": "ICON_PLAY",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-pause.png",
+                    "memoryFormat": "1Bit",
+                    "name": "ICON_PAUSE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-eye.png",
+                    "name": "IMAGE_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/fa-eye-menu.png",
+                    "memoryFormat": "1Bit",
+                    "menuIcon": true,
+                    "name": "ICON_MENU",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -95,5 +95,5 @@
             "watchface": false
         }
     },
-    "version": "0.9.0"
+    "version": "1.0.0"
 }
