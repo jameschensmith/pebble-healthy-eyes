@@ -1,8 +1,8 @@
 Healthy Eyes - The Smart Pomodoro Timer for Pebble
 ==================================================
-Do you find yourself staring at screens for long periods of time, eventually leading to headaches? Or, are you working on a task, only to find yourself not making any progress? [Healthy Eyes](1) may be the solution for you!
+Do you find yourself staring at screens for long periods of time, eventually leading to headaches? Or, are you working on a task, only to find yourself not making any progress? [Healthy Eyes][1] may be the solution for you!
 
-Healthy Eyes is a [Pebble](2) watchapp that aims to help you manage your time and to keep track of your breaks while preventing [eyestrain](3). The technique used for the timer is similar to the [Pomodoro Technique](4), but with the flexibility of being able to snooze the timer in case you need another minute to jot down a spur-of-the-moment idea or catch the end-of-credits teaser of your favorite show.
+Healthy Eyes is a [Pebble][2] watchapp that aims to help you manage your time and to keep track of your breaks while preventing [eyestrain][3]. The technique used for the timer is similar to the [Pomodoro Technique][4], but with the flexibility of being able to snooze the timer in case you need another minute to jot down a spur-of-the-moment idea or catch the end-of-credits teaser of your favorite show.
 
 If you found an issue, please report it here.
 
@@ -30,9 +30,9 @@ Licensed under the MIT license: http://opensource.org/licenses/MIT
 
 Further links
 -------------
-- [CloudPebble IDE](5)
+- [CloudPebble IDE][5]
 
-[1]: https://github.com/poeia/healthy-eyes
+[1]: https://apps.getpebble.com/en_US/application/57fee4621fd66b81c50001e4
 [2]: https://www.pebble.com/
 [3]: http://www.mayoclinic.org/diseases-conditions/eyestrain/basics/causes/con-20032649
 [4]: http://pomodorotechnique.com/
